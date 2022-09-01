@@ -10,7 +10,7 @@ DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) cu
 
 - Introduction to Data Science 
 
-- Introduction to Python
+- Python for Data Anaylitcs 
 
 **Hobbies:**
 
